@@ -1,16 +1,37 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Aitor Agulló Duque
 
-<!--
-**AitorAD/AitorAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma  
+🏫 IES Marcos Zaragoza (Villajoyosa, Alicante) 
+💬 Interesado en el desarrollo de software y los videojuegos  
+🧠 Siempre aprendiendo algo nuevo sobre tecnología
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías que uso
+
+- **Frontend:** Flutter · React + TypeScript + Vite  
+- **Backend:** Java · Spring Boot · C#  
+- **Otros:** Firebase · Git · GitHub · REST APIs
+
+---
+
+## 💼 Proyecto actual
+
+🎓 **Trabajo Final de Grado (TFG)**  
+Estoy desarrollando una app de mensajería hecha con **Flutter** y **Firebase**, que conecta personas con gustos similares en videojuegos.  
+Una especie de "Tinder para gamers" 🎮💬
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Aitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=AitorAD&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AitorAD&layout=compact)
+
+---
+
+## 📫 Contacto
+
+- 📧 aitor@example.com *(pon tu correo real aquí)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil/)  
+- 🌐 [Portafolio (si tienes uno)](https://tuweb.com)
