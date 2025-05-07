@@ -32,6 +32,5 @@ Una especie de "Tinder para gamers" 🎮💬
 
 ## 📫 Contacto
 
-- 📧 aitor@example.com *(pon tu correo real aquí)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil/)  
-- 🌐 [Portafolio (si tienes uno)](https://tuweb.com)
+- 📧 aduqueagullo@gmail.com
+- 💼 [LinkedIn](linkedin.com/in/aitor-agullo-duque)
