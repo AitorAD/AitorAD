@@ -1,5 +1,5 @@
-<p align="right">
-  <img src="https://raw.githubusercontent.com/AitorAD/AitorAD/main/logo.png" width="120" alt="Logo AAD"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AitorAD/AitorAD/main/logo.png" width="240" alt="Logo AAD"/>
 </p>
 
 # ¡Hola! 👋 Soy Aitor Agulló Duque
